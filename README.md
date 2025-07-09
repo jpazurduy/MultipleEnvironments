@@ -1,5 +1,5 @@
 
-# TicTacToe App
+# Multi Environment App
 
 Multi Environment with 3 modes (development, staging, production).
 
